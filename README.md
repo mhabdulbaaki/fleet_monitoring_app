@@ -25,7 +25,7 @@ A Flutter application to monitor a fleet of vehicles in real-time, displaying th
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fleet_monitoring_app.git
+git clone https://github.com/mhabdulbaaki/fleet_monitoring_app.git
 cd fleet_monitoring_app
 ```
 
